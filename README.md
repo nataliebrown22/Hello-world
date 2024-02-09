@@ -12,7 +12,7 @@ My first repository
 
 ## Project Title
 
-"User Interaction"
+"User_Interaction.py"
 
 ## Description
 
@@ -22,6 +22,4 @@ Communicate with a user using simple inputs and conditional statements.
 
 Input values when promprted by the computer. The system will specify inputs.
 
-## Program
 
-- [user_interaction.py](User-Interaction)
