@@ -20,6 +20,8 @@ Communicate with a user using simple inputs and conditional statements.
 
 ## How to run program
 
-Input values when promprted by the computer. The system will specify inputs.
+1. run program
+2. enter requested input when prompted
+3. code finished
 
 
