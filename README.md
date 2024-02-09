@@ -1,7 +1,7 @@
 # Hello-world
 My first repository
 
-# Title
+# Simple Code for User Interactions in Python
 
 ## Table of Contents
 
