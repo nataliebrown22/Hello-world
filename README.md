@@ -12,7 +12,7 @@ My first repository
 
 ## Project Title
 
-"User_Interaction.py"
+User Interaction
 
 ## Description
 
